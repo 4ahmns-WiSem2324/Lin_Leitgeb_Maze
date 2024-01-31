@@ -4,7 +4,9 @@
 
 **Aufgabe:**
 Finde den Ausgang des Labyrinths. Doch auf einem separaten Bildschirm verfolgt ein Wächter deine Bewegungen, bereit, mit Laserfallen und Hindernissen deinen Weg zu versperren. Die Interaktion zwischen Entdecker und Wächter wird entscheidend. Navigiere durch die Gefahren und versuche, dem Wächter zu entkommen.
+
 Der Wächter ist der **Feind des Spielers**. Er behindert ihn und versucht, ihn davon abzuhalten das Ende das Labyrinths zu erreichen. 
+//
 Er drückt auf einem separaten Screen Buttons oder bedient Slider, um die Fallen zu aktivieren. (Bsp. Slider = Wall Trap, schnelle Bedienung = schnelles Bewegen der Türe, Button = Spike Trap, Button aktiviert das Ausfahren der Spikes) etc. 
 
 
@@ -18,5 +20,7 @@ Er drückt auf einem separaten Screen Buttons oder bedient Slider, um die Fallen
 
 Es gibt insgesamt drei Ansichten.
 Die **Ansicht des Spielers**, der versucht das Labyrinth zu durchqueren.
-Die Ansicht des Wächters, der eine **Top View vom Labyrinth** bekommt, um zu sehen, wo sich der Spieler gerade befindet. Über den platzierten Fallen im Labyrinth befindet sich ein Button, wo der Wächter draufdrücken muss, um in die
-Button Ansicht zu kommen. Wenn er in der **Button Ansicht** ist, also bereit ist, eine Falle auszulösen, wird der Spieler im Labyrinth darüber benachrichtigt, also ihm wird mitgeteilt, vorsichtig zu sein. 
+
+Die Ansicht des Wächters, der eine **Top View vom Labyrinth** bekommt, um zu sehen, wo sich der Spieler gerade befindet. Über den platzierten Fallen im Labyrinth befindet sich ein Button, wo der Wächter draufdrücken muss, um in die Button Ansicht zu kommen.
+
+Wenn er in der **Button Ansicht** ist, also bereit ist, eine Falle auszulösen, wird der Spieler im Labyrinth darüber benachrichtigt, also ihm wird mitgeteilt, vorsichtig zu sein. 
