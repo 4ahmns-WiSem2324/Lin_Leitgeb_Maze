@@ -25,8 +25,11 @@ Die Ansicht des Wächters, der eine **Top View vom Labyrinth** bekommt, um zu se
 
 Wenn er in der **Button Ansicht** ist, also bereit ist, eine Falle auszulösen, wird der Spieler im Labyrinth darüber benachrichtigt, also ihm wird mitgeteilt, vorsichtig zu sein. 
 
+
 Bereits gemacht: Das Labyrinth selber, ein paar einzelne Fallen
+
 Was funktioniert noch nicht? Das Auslösen der Fallen, die Implementierung ins Labyrinth, Player Speed etc. anpassen, Ziel festlegen von Labyrinth
+
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
 https://assetstore.unity.com/packages/3d/environments/dungeons/decrepit-dungeon-lite-33936
