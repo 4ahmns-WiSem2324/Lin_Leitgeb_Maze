@@ -32,6 +32,10 @@ Was funktioniert noch nicht? Das Auslösen der Fallen, die Implementierung ins L
 
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+
+
 https://assetstore.unity.com/packages/3d/environments/dungeons/decrepit-dungeon-lite-33936
+
+
 https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
 
